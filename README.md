@@ -12,7 +12,9 @@ A simple Flutter app that displays a diamond image — inspired by the classic "
 - Dart
 
 ## 📸 Screenshot
-(Add screenshot here)
+<p align="center">
+  <img src="images/screenshot.png" width="300"/>
+</p>
 
 ## 🚀 How to run
 ```bash
